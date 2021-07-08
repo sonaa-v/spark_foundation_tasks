@@ -1,8 +1,8 @@
 # spark_foundation_tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
-## Internship Category - Data Science and Business Analytics
-## Internship Duration - 1 Month ( July-2021 )
+### Internship Category - Data Science and Business Analytics
+### Internship Duration - 1 Month ( July-2021 )
 
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
@@ -64,7 +64,3 @@ Use Tableau or Power BI for this task
 Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
 Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 You can view all the tasks on my youtube playlist as well.
-
-References -
-Tableau
-Scikit Learn
