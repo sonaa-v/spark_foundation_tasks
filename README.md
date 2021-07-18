@@ -25,3 +25,17 @@ Data can be found at https://bit.ly/3cGyP8j
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
 Tool : Python
 Dataset: https://bit.ly/3i4rbWl
+
+# Other Domain-Task
+
+# Task 1.Object Detection / Optical Character Recognition (ORC)(Level - Beginner)
+
+Implement an object detector which identifies the classes of the objects in
+an image or video. Character detector which extracts printed or handwritten text from an
+image or video.
+
+# Task 2.Color Identification in Images(Level - Beginner)
+
+Implement an image color detector which identifies all the colors in an
+image or video.
+
